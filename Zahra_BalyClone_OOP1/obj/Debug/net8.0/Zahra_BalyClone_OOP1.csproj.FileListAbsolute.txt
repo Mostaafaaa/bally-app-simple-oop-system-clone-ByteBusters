@@ -1,0 +1,14 @@
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\bin\Debug\net8.0\Zahra_BalyClone_OOP1.exe
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\bin\Debug\net8.0\Zahra_BalyClone_OOP1.deps.json
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\bin\Debug\net8.0\Zahra_BalyClone_OOP1.runtimeconfig.json
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\bin\Debug\net8.0\Zahra_BalyClone_OOP1.dll
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\bin\Debug\net8.0\Zahra_BalyClone_OOP1.pdb
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.AssemblyInfoInputs.cache
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.AssemblyInfo.cs
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.csproj.CoreCompileInputs.cache
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.dll
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\refint\Zahra_BalyClone_OOP1.dll
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.pdb
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\Zahra_BalyClone_OOP1.genruntimeconfig.cache
+E:\Problems_Solver_Bootcamp\VS_projects\Zahra_BalyClone_OOP1\obj\Debug\net8.0\ref\Zahra_BalyClone_OOP1.dll
